@@ -11,6 +11,7 @@ code = qrcode.QRCode(
     box_size=50,  # Pixel olarak boyutunu belirlediğimiz özellik.
     border=2  # Kenar boyutu
 )
+
 data = input("QR içine eklemek istediğiniz metni girin: ")
 code.add_data(data)  # qr code'un içindeki veri
 code.make(fit=True)  # fit ile qr code'un veriye otomatik olarak uyumlu olması sağlanır.
