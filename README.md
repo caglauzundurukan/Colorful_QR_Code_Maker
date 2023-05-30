@@ -1,4 +1,4 @@
-# Colorful_QR_Code_Maker
+# Renkli QR Code Oluşturucu
 
 Bu Python projesi, `qrcode` kütüphanesini kullanarak özellikli QR kodlar oluşturmanızı sağlar. QR kodlarının boyutunu, hata düzeltme seviyesini, kenar boyutunu ve renklerini özelleştirebilirsiniz.
 
